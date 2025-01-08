@@ -1,9 +1,10 @@
-<h1>Perfil para contribuição em Lojas</h1>
+<h1>Olá 👋 seja bem-vindo!</h1>
+<p>Esse perfil contribui para correções de bugs, adicionar novas features de e-commerces, estudos e criações.</p>
 <h2>Plataforma:</h2>
 <p>Deco.cx</p>
 <h2>Tecnologia Utilizada:</h2>
 <p>
-    ReactJS;<br />PreactJS;<br /> TypeScript;<br /> TailwindCSS;<br />
+    HTML;<br /> ReactJS, PreactJS, TypeScript, JavaScript<br /> TailwindCSS, CSS, SCSS;<br />  
 </p>
 <div>
   <a href="https://github.com/RodolfoN1" style="display:flex;align-items: flex-start;justify-content:flex-start;">
